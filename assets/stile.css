@@ -9,8 +9,8 @@
 }
  
  hr{color: coral;}
-ol, ul, p{
-font-size: large;
+ol, ul, p, strong{
+font-size: medium;
 } 
 
 body{
